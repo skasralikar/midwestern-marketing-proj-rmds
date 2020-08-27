@@ -13,3 +13,5 @@
 
 # Results
 ![Software/Tech Job Concentration in USA](https://github.com/skasralikar/midwestern-marketing-proj-rmds/blob/master/datavisualizations/LouisianaTech.png)
+
+The rest of data visualizations and student/labor statistics breakdown by Midwestern state can be found [here](https://github.com/skasralikar/midwestern-marketing-proj-rmds/tree/master/datavisualizations)
