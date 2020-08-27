@@ -12,3 +12,4 @@
 - Computed correlation between datasets to determine which schools to target GRMDS platform to
 
 # Results
+![Software/Tech Job Concentration in USA](https://github.com/skasralikar/midwestern-marketing-proj-rmds/blob/master/datavisualizations/LouisianaTech.png)
