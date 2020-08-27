@@ -1,5 +1,6 @@
 # midwestern-marketing-proj-rmds
-*Shravani Kasralikar
+
+*Shravani Kasralikar*
 
 # Languages and Tools
 - Python; Jupyter notebook, matplotlib, geopandas, numpy, seaborn
